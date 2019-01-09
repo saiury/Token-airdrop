@@ -1,0 +1,42 @@
+{
+  "name": "choam",
+  "version": "1.0.0",
+  "description": "game",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gauss11@bitbucket.org/gauss11/choam.git"
+  },
+  "author": "Dmitriy Zhivodenko",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/gauss11/choam#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "axios": "^0.18.0",
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "buefy": "^0.6.7",
+    "ethjs": "^0.4.0",
+    "ethjs-abi": "^0.2.1",
+    "ethjs-contract": "^0.2.3",
+    "express": "^4.16.2",
+    "gulp": "^4.0.0",
+    "gulp-babel": "^7.0.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-html-replace": "^1.6.2",
+    "gulp-real-favicon": "^0.3.0",
+    "gulp-rimraf": "^0.2.2",
+    "gulp-uglify-es": "^1.0.4",
+    "humanize-duration": "^3.15.1",
+    "lodash": "^4.17.4",
+    "openzeppelin-solidity": "^1.12.0",
+    "truffle": "^5.0.0",
+    "truffle-hdwallet-provider": "^0.0.6",
+    "vue": "^2.5.16",
+    "vue-router": "^3.0.1"
+  }
+}

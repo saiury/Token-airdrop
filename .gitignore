@@ -1,0 +1,12 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+/build/
+/data/
+/node_modules/
+/src/data.js
+/src/data.js.map
+/src/sender.js.map
+/src/sender.js
+/contracts.js
+/contracts.js.map
+/keys.js
